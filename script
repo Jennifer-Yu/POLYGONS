@@ -1,0 +1,29 @@
+ident
+box
+245 430 0 30 30 30
+torus
+225 380 0 10 20
+sphere
+225 330 0 20
+sphere
+225 280 0 20
+sphere
+225 230 0 20
+sphere
+225 180 0 20
+torus
+225 130 0 10 20
+sphere
+225 80 0 20
+box
+230 450 0 10 400 10
+rotate
+x 40
+rotate
+y 70
+scale
+1.2 1.2 1.2
+apply
+display
+save
+kebab.png
